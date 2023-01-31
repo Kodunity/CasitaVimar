@@ -3,7 +3,7 @@ const productos = [
     id: 1,
     nombre: "Meal Preps",
     descripcion: "5 platos *No incluyen meriendas*.",
-    img: (src = "../Imagenes/IMG-20220702-WA0014.jpg"),
+    img: (src = "..//Imagenes/IMG-20220528-WA0046-removebg-preview.png"),
     cantidad: 1,
 
     precio: [48,78,112],
@@ -14,7 +14,7 @@ const productos = [
     nombre: "Catering",
     descripcion:
       "Ofrecemos nuestro servicio de catering para todo tipo de actividad y evento siendo confeccionado por nuestra chef. Las ordenes deben de ser con 2 a 4 semanas con anticipación y requiere deposito el cual depende de la cantidad de comensales y este no es reembolsable, para más información favor de comunicarse con nosotros al (787) 604-0764",
-    img: (src = "../Imagenes/20221113_130919.jpg"),
+    img: (src = "../Imagenes/IMG-20220809-WA0013.jpg"),
     cantidad: 1,
 
     precio: [50,100,150],
